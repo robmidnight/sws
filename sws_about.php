@@ -16,7 +16,7 @@ include("inc/sws_header.php");
 
 									<b>-</b>
 									<br>
-			I help local companies like you create or enhance their web presence, developing simple website designs that make their customers feel welcome and implementing easy to use online marketing strategies that doesn't leave you scratching your head.  The world of online development and marketing can sometimes feel overwhelming but there are simple things you can do this very minute to get you on the map and make it easier for customers to find you.  
+			I help local companies like you create or enhance their web presence, developing simple website designs that make their customers feel welcome and implementing easy to use online marketing strategies that never leave you scratching your head.  The world of online development and marketing can sometimes feel overwhelming but there are simple things you can do this very minute to get you on the map and make it easier for customers to find you.  
 									<br><br>
 			There are no stupid questions here just good answers.  I will help you itemize the most important things you can do and work with your budget, large or small.  I'm here to help so feel free to call or email me with any questions you might have.  Believe me developing your web presence doesnt have to be like going to the dentist. 
 										<br>
